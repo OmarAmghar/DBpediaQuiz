@@ -2,4 +2,6 @@
 #startBtn{
 	-fx-font-size: 25px ;
 	-fx-background-color: rgba(225, 128, 0, 1); 
+	-fx-background-radius: 30;
+        -fx-background-insets: 0;
 }
