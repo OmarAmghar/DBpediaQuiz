@@ -1,1 +1,5 @@
 /* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#startBtn{
+	-fx-font-size: 25px ;
+	-fx-background-color: rgba(225, 128, 0, 1); 
+}
