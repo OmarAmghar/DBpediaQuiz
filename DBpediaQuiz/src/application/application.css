@@ -1,10 +1,35 @@
 /* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
 #startBtn{
-	-fx-font-size: 25px ;
+	-fx-font-size: 15px ;
 	-fx-background-color: rgba(225, 128, 0, 1); 
-	-fx-background-radius: 30;
-        -fx-background-insets: 0;
+	-fx-background-radius: 20;
+    -fx-background-insets: 0;
 }
 
-.root{
-	-fx-background-image: url('C:/Users/Houda/Desktop/bg.jpg')
+#singlePlayerBtn{
+	-fx-font-size: 15px ;
+	-fx-background-color: rgba(225, 128, 0, 1); 
+	-fx-background-radius: 10;
+    -fx-background-insets: 0;
+} 
+
+#multPlayerBtn{
+	-fx-font-size: 15px ;
+	-fx-background-color: rgba(225, 128, 0, 1); 
+	-fx-background-radius: 10;
+    -fx-background-insets: 0;
+}
+
+#levelBtn{
+	-fx-font-size: 15px ;
+	-fx-background-color: rgba(225, 128, 0, 1); 
+	-fx-background-radius: 10;
+    -fx-background-insets: 0;
+}
+
+#exitBtn{
+	-fx-font-size: 15px ;
+	-fx-background-color: rgba(225, 128, 0, 1); 
+	-fx-background-radius: 10;
+    -fx-background-insets: 0;
+}
