@@ -22,4 +22,16 @@ public class AppController {
 		primaryStage.show();
 		
 	}
+	
+	public void singlePlayer(ActionEvent e) throws Exception {
+		((Node)e.getSource()).getScene().getWindow().hide();
+		Stage primaryStage = new Stage();
+		Parent root = FXMLLoader.load(getClass().getClassLoader().getResource("SinglePlayer.fxml"));
+		Scene scene = new Scene(root);
+		scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
+		primaryStage.setScene(scene);
+		primaryStage.setTitle("Categories");
+		primaryStage.show();
+		
+	}
 }
