@@ -13,7 +13,7 @@
     -fx-background-insets: 0;
 }
 
-#multPlayerBtn{
+#multPlayerBtn{ 
 	-fx-font-size: 15px ;
 	-fx-background-color: rgba(225, 128, 0, 1); 
 	-fx-background-radius: 10;

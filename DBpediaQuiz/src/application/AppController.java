@@ -22,7 +22,7 @@ public class AppController {
 		primaryStage.show();
 		
 	}
-	
+	 
 	public void singlePlayer(ActionEvent e) throws Exception {
 		((Node)e.getSource()).getScene().getWindow().hide();
 		Stage primaryStage = new Stage();

@@ -20,4 +20,4 @@
       <Button id="artBtn" layoutX="246.0" layoutY="221.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="75.0" text="Art" />
       <Button id="religionBtn" layoutX="419.0" layoutY="221.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="75.0" text="Religion" />
    </children>
-</AnchorPane>
+</AnchorPane> 
